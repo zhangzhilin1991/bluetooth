@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能温感</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="scanning">Looking for devices. Please wait…</string>
+    <string name="no_devices">No devices found.</string>
+    <string name="temp_label">测得的温度是:</string>
+    <string name="temp_format">%1$.1f℃</string>
+     <string name="heart_table">测得的心率是:</string>
+      <string name="heart_format">%d</string>
+
+</resources>
